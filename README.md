@@ -2,9 +2,11 @@
 ![plot](https://github.com/Chano30/Youtube_API_Analysis/blob/master/images/compilation.png)
 
 ## Data Used
-**Data** - Youtube API, Channel Cong TV
-**Data Cleaning & Analysis** - Jupyter lab, Python
-**Data Visualization** - Matplotlib, Seaborn
+
+**Data** - Youtube API, Channel Cong TV\
+**Data Cleaning & Analysis** - Jupyter lab, Python\
+**Data Visualization** - Matplotlib, Seaborn\
+
 
 ## Questions
 1. What are the average views per video?
